@@ -35,7 +35,6 @@ An interactive quiz platform built with React, TypeScript, and Tailwind CSS.
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd quiz
 ```
 
 2. Install dependencies:
