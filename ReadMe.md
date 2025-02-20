@@ -51,3 +51,6 @@ npm run dev
 ```
 http://localhost:5173
 ```
+
+### Live Link:
+[Quiz](https://dacoid-quiz-beta.vercel.app/)
